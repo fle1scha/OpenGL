@@ -1,0 +1,33 @@
+OpenGL Practical 1 - FLSANT005
+==========================
+1. In the terminal, call `make` then `make run`.
+2. The controls for the matrix transformations are given below.
+3. Both object 1 and 2 are doggos, but you can distinguish them by pressing 1 and 2 on the keyboard.
+
+    TRANSLATIONS    |
+    -----------------------------------
+    + X translate   |       RIGHT ARROW
+    - X translate   |       LEFT ARROW
+    + Y translate   |       UP ARROW
+    - Y translate   |       DOWN ARROW
+    + Z translate   |       BACKSLASH (next to backspace)
+    - Z translate   |       BACKSPACE
+    -----------------------------------
+    SCALING         |
+    -----------------------------------
+    + Scaling       |       PERIOD (>)
+    - Scaling       |       COMMA (<)
+    -----------------------------------
+    ROTATIONS       |
+    -----------------------------------
+    X axis          |       X
+    Y axis          |       Y
+    Z axis          |       Z
+    -----------------------------------               
+    COLOUR CHANGES  |
+    -----------------------------------
+    Object 1        |       1
+    Object 2        |       2
+
+
+

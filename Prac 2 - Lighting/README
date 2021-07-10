@@ -1,0 +1,39 @@
+OpenGL Practical 2 - FLSANT005
+==========================
+1. In the terminal, call `make` then `make run`.
+2. The controls for the matrix transformations are given below.
+3. The camera rotates around the origin, as this was specified in the assignment. Object rotation can be achieved though - check line 378 in glwindow.cpp.
+    - In order to inspect the object for lighting consistency , I think it would be easier to make the object rotate.
+4. Distance has been accounted for in lighting calculations, so please play around with that.
+
+    TRANSLATIONS    |
+    -----------------------------------
+    + X translate   |       RIGHT ARROW
+    - X translate   |       LEFT ARROW
+    + Y translate   |       UP ARROW
+    - Y translate   |       DOWN ARROW
+    + Z translate   |       BACKSLASH (next to backspace)
+    - Z translate   |       BACKSPACE
+    -----------------------------------
+    SCALING         |
+    -----------------------------------
+    + Scaling       |       PERIOD (>)
+    - Scaling       |       COMMA (<)
+    -----------------------------------
+   CAMERA ROTATIONS |
+    -----------------------------------
+    X axis          |       X
+    Y axis          |       Y
+    Z axis          |       Z
+    -----------------------------------               
+    COLOUR CHANGES  |
+    -----------------------------------
+    Object 1        |       1
+    -----------------------------------               
+    BUMP MAPPING |
+    -----------------------------------
+    Object 1        |       B
+   
+
+
+
